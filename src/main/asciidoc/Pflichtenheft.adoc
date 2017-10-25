@@ -208,7 +208,7 @@ Abstract actors (i.e. an actor which groups other actors, written in _italic_) a
 === Use-Case Diagram
 
 [[use_case_diagram]]
-image::.\images\Use_Case_Diagram.png[Use Case diagram, 100%, 100%, pdfwidth=100%, title= "Use case diagram of {project_name}", align=center]
+image::.\models\analysis\Analyseklassendiagramm.png[Analyseklassendiagramm, 100%, 100%, pdfwidth=100%, title= "Analyseklassendiagramm of {project_name}", align=center]
 
 === Use-Case Descriptions
 
